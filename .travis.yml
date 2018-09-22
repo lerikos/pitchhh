@@ -6,7 +6,7 @@ deploy:
   target_branch: master
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  email: tituswormer@gmail.com
-  name: Titus Wormer
+  email: todd.soulas.au@gmail.com
+  name: Todd Soulas
   on:
     branch: src
