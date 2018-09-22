@@ -1,12 +1,12 @@
 {
-  "name": "www-readability",
+  "name": "pitchhh",
   "private": true,
   "license": "MIT",
-  "repository": "wooorm/readability",
-  "bugs": "https://github.com/wooorm/readability/issues",
-  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "repository": "lerikos/pitchhh",
+  "bugs": "https://github.com/lerikos/pitchhh/issues",
+  "author": "Todd Soulas <todd@toddsoulas.com> (http://toddsoulas.com)",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+    "Todd Soulas <todd@toddsoulas.com> (http://toddsoulas.com)"
   ],
   "dependencies": {
     "automated-readability": "^1.0.0",
