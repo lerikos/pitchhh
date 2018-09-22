@@ -4,9 +4,9 @@
   "license": "MIT",
   "repository": "lerikos/pitchhh",
   "bugs": "https://github.com/lerikos/pitchhh/issues",
-  "author": "Todd Soulas <todd@toddsoulas.com> (http://toddsoulas.com)",
+  "author": "Todd Soulas <todd.soulas.au@gmail.com> (http://toddsoulas.com)",
   "contributors": [
-    "Todd Soulas <todd@toddsoulas.com> (http://toddsoulas.com)"
+    "Todd Soulas <todd.soulas.au@gmail.com> (http://toddsoulas.com)"
   ],
   "dependencies": {
     "automated-readability": "^1.0.0",
