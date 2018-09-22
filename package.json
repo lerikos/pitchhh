@@ -59,7 +59,6 @@
     "build:html": "rehype -u preset-minify -u prevent-favicon-request src/index.html -o dest",
     "build": "npm run build:js && npm run build:css && npm run build:html",
     "test": "npm run format && npm run build"
-    "start": "node index.js"
   },
   "stylelint": {
     "extends": "stylelint-config-standard"
