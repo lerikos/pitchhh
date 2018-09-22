@@ -1,5 +1,7 @@
 {
   "name": "pitchhh",
+  "engines": {
+    "node": "8.12.0"
   "private": true,
   "license": "MIT",
   "repository": "lerikos/pitchhh",
